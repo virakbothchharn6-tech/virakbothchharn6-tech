@@ -1,72 +1,89 @@
-<h1 align="center">~ 💖 𝒲ℯ𝓁𝒸ℴ𝓂ℯ 𝓉ℴ 𝓂𝓎 𝒫𝓇ℴ𝒻𝒾𝓁ℯ 💖 ~</h1>
-
-<p align="center">
-  <img src="https://via.placeholder.com/700x180.png?text=Your+Banner+Image+Here" width="100%" />
-</p>
-
-<p align="center">
-  <i>Final-year Software Engineering student</i><br/>
-  <i>Turning ideas into real, working apps</i><br/>
-  <i>Exploring Laravel, Flutter & Python</i><br/>
-  <i>One project at a time</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/virakbothchharn6-tech">𝒢𝒾𝓉𝐻𝓊𝒷</a> · <a href="mailto:virakbothchharn6@gmail.com">ℰ𝓂𝒶𝒾𝓁</a>
-</p>
-
----
-
-<h2 align="center">🎀 ~ 𝒜𝒷ℴ𝓊𝓉 𝓂ℯ ~ 🎀</h2>
+<h1 align="center">Hi 👋, I'm Virakboth Chharn</h1>
+<h3 align="center">Full Stack Software Developer</h3>
 
 <table>
 <tr>
-<td width="60%">
+<td width="70%">
 
-- **Name:** Virakboth Chharn (Jack)
-- **Loves:** coding, mobile apps, exploring new tech
-- **Gender:** he/him
-- **Location:** 🇰🇭 Cambodia
-- **Hobbies:** Full-stack dev, Flutter, learning DevOps
+Hello there! I'm Virakboth Chharn, a final-year Software Engineering student from Cambodia. As an aspiring Full-Stack Developer, I'm dedicated to building robust, real-world applications across web and mobile. My journey spans Laravel, Flutter, Python, and C#, with a growing interest in Docker and DevOps practices.
+
+*"Turn ideas into real, working apps."*
 
 </td>
-<td width="40%">
-  <img src="https://via.placeholder.com/250x250.png?text=Your+Photo" width="100%"/>
+<td width="30%">
+  <img src="https://via.placeholder.com/280x220.png?text=Your+Gif+Here" width="100%"/>
 </td>
 </tr>
 </table>
 
+### About Me 👨‍💻
+
+- 🎓 Final-year Software Engineering student in Cambodia
+- 🚀 Currently focused on Full-Stack Web & Mobile Development
+- 🤝 Looking to collaborate on Web3, Web, and Mobile Dev projects
+- 💡 Always eager to contribute to Open Source
+- ⚡ Fun fact: I love building apps that solve real problems
+
 ---
 
-<h2 align="center">💻 ~ 𝒦𝓃ℴ𝓌𝓁ℯ𝒹ℊℯ ~ 💻</h2>
+<details>
+<summary>💻 Technology Stack</summary>
+<br/>
 
-<table>
-<tr>
-<td width="55%">
+**Programming Languages**
+
+<img src="https://skillicons.dev/icons?i=php,java,js,ts,csharp,kotlin,html,css&theme=dark"/>
+
+**Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=laravel,react,flutter,nextjs,tailwind,dotnet&theme=dark"/>
+
+**Database & Services**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres,sqlite&theme=dark"/>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman,docker&theme=dark"/>
+
+</details>
+
+<details>
+<summary>📚 Future Learning Goals</summary>
+<br/>
+
+- Deepen knowledge of DevOps and Docker
+- Explore Spring Boot for backend development
+- Learn cloud deployment (AWS / GCP)
+- Contribute to larger open-source projects
+
+</details>
+
+---
+
+### 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=virakbothchharn6-tech&show_icons=true&theme=dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virakbothchharn6-tech&layout=compact&theme=dark&hide_border=true" height="165"/>
 </p>
 
-<p align="left"><i>There are many more things, but I'm still adding badges — this will do for now 🌸</i></p>
-
-</td>
-<td width="45%">
-  <img src="https://via.placeholder.com/280x200.png?text=Your+Gif+Here" width="100%"/>
-</td>
-</tr>
-</table>
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=virakbothchharn6-tech&theme=dark&hide_border=true" alt="GitHub streak"/>
+</p>
 
 ---
 
-<h3 align="center">💖 ~ 𝒯𝒽𝒶𝓃𝓀𝓈 𝒻ℴ𝓇 𝓇ℯ𝒶𝒹𝒾𝓃ℊ! ~ 💖</h3>
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:virakbothchharn6@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://github.com/virakbothchharn6-tech" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/700x300.png?text=Your+Closing+Gif+Here" width="100%"/>
+  <img src="https://komarev.com/ghpvc/?username=virakbothchharn6-tech&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
