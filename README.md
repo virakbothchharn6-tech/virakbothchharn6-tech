@@ -1,59 +1,72 @@
-<h1 align="center">Hi 👋, I'm Virakboth Chharn (Jack)</h1>
-<h3 align="center">Software Engineering Student | Full-Stack Developer</h3>
+<h1 align="center">~ 💖 𝒲ℯ𝓁𝒸ℴ𝓂ℯ 𝓉ℴ 𝓂𝓎 𝒫𝓇ℴ𝒻𝒾𝓁ℯ 💖 ~</h1>
 
 <p align="center">
-  Final-year Software Engineering student from Cambodia 🇰🇭, building projects across web and mobile.
-  <br/>
-  I enjoy exploring new tech stacks and turning ideas into real, working apps.
+  <img src="https://via.placeholder.com/700x180.png?text=Your+Banner+Image+Here" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=virakbothchharn6-tech&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:virakbothchharn6@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>
+  <i>Final-year Software Engineering student</i><br/>
+  <i>Turning ideas into real, working apps</i><br/>
+  <i>Exploring Laravel, Flutter & Python</i><br/>
+  <i>One project at a time</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/virakbothchharn6-tech">𝒢𝒾𝓉𝐻𝓊𝒷</a> · <a href="mailto:virakbothchharn6@gmail.com">ℰ𝓂𝒶𝒾𝓁</a>
 </p>
 
 ---
 
-### 🚀 About Me
+<h2 align="center">🎀 ~ 𝒜𝒷ℴ𝓊𝓉 𝓂ℯ ~ 🎀</h2>
 
-- 🎓 Currently learning Software Engineering fundamentals and building personal projects
-- 🛠️ Working across a broad stack: **Laravel, Flutter, Python, Docker, Kotlin, C#, JavaScript**
-- 💬 Ask me about **Laravel, Flutter, Python**
-- 📫 Reach me at: **virakbothchharn6@gmail.com**
-- ⚡ Fun fact: I love building apps that solve real problems
+<table>
+<tr>
+<td width="60%">
+
+- **Name:** Virakboth Chharn (Jack)
+- **Loves:** coding, mobile apps, exploring new tech
+- **Gender:** he/him
+- **Location:** 🇰🇭 Cambodia
+- **Hobbies:** Full-stack dev, Flutter, learning DevOps
+
+</td>
+<td width="40%">
+  <img src="https://via.placeholder.com/250x250.png?text=Your+Photo" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 
-### 🤝 Connect with me
+<h2 align="center">💻 ~ 𝒦𝓃ℴ𝓌𝓁ℯ𝒹ℊℯ ~ 💻</h2>
+
+<table>
+<tr>
+<td width="55%">
 
 <p align="left">
-  <a href="https://github.com/virakbothchharn6-tech" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:virakbothchharn6@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
+
+<p align="left"><i>There are many more things, but I'm still adding badges — this will do for now 🌸</i></p>
+
+</td>
+<td width="45%">
+  <img src="https://via.placeholder.com/280x200.png?text=Your+Gif+Here" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 
-### 💻 Tech Stack
+<h3 align="center">💖 ~ 𝒯𝒽𝒶𝓃𝓀𝓈 𝒻ℴ𝓇 𝓇ℯ𝒶𝒹𝒾𝓃ℊ! ~ 💖</h3>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,csharp,flutter,kotlin,js,html,css,docker,git,github,vscode,dart&theme=dark" />
+<p align="center">
+  <img src="https://via.placeholder.com/700x300.png?text=Your+Closing+Gif+Here" width="100%"/>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=virakbothchharn6-tech&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=virakbothchharn6-tech&theme=dark&hide_border=true" alt="GitHub streak" height="165"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virakbothchharn6-tech&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-<p align="center"><i>Thanks for visiting my profile! Feel free to reach out 🚀</i></p>
